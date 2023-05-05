@@ -1,0 +1,32 @@
+* Esta é uma aplicação simples de gerenciamento de tarefas, que permite adicionar, editar, excluir e listar tarefas.
+
+* Execute o código em um ambiente Python compatível.
+
+* Para usar a aplicação, siga as instruções apresentadas no menu de opções:
+
+* Adicionar Tarefa:
+a. Digite o nome da tarefa;
+b. Insira uma descrição da tarefa;
+c. Insira a data de vencimento da tarefa;
+d. A tarefa será adicionada com sucesso.
+
+* Editar Tarefa:
+a. Digite o índice da tarefa que deseja editar (o índice da primeira tarefa é 1);
+b. Digite o novo título da tarefa ou pressione Enter para pular;
+c. Digite a nova descrição da tarefa ou pressione Enter para pular;
+d. Insira a nova data de vencimento da tarefa ou pressione Enter para pular;
+e. A tarefa será editada com sucesso.
+
+* Marcar Tarefa Como Concluída:
+a. Digite o índice da tarefa que deseja marcar como concluída (o índice da primeira tarefa é 1);
+b. A tarefa será marcada como concluída.
+
+* Excluir Tarefa:
+a. Digite o índice da tarefa que deseja excluir (o índice da primeira tarefa é 1);
+b. A tarefa será excluída com sucesso.
+
+* Listar Tarefas:
+a. Todas as tarefas adicionadas até agora serão listadas, mostrando o título, a descrição, a data de vencimento e o status (completo ou não completo) de cada tarefa.
+
+* Sair:
+a. A aplicação será encerrada.
